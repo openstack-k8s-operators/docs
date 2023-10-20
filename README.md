@@ -20,3 +20,4 @@ Documentation related to podified controlplane.
 * [Hyperconverged Infrastructure](hci.md)
 * [Service config and bootstrap](service_config.md)
 * [Overview of Writing EDPM services](edpm_service_overview.md)
+* [Adding shell commands in pod containers](adding_shell_commands.md)
