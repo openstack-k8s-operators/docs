@@ -24,3 +24,4 @@ Documentation related to podified controlplane.
 * [The journey of a config variable in openstack-k8s-operators](journey_of_a_config_variable.md)
 * [Troubleshooting](troubleshooting.md)
 * [FIPS](fips.md)
+* [Bumping dependencies](bumping_dependencies.md)
